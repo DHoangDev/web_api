@@ -36,4 +36,3 @@ C:\Users\Hoang\source\repos\WebApiEF5\WebApiEF5\obj\Debug\net5.0\WebApiEF5.dll
 C:\Users\Hoang\source\repos\WebApiEF5\WebApiEF5\obj\Debug\net5.0\ref\WebApiEF5.dll
 C:\Users\Hoang\source\repos\WebApiEF5\WebApiEF5\obj\Debug\net5.0\WebApiEF5.pdb
 C:\Users\Hoang\source\repos\WebApiEF5\WebApiEF5\obj\Debug\net5.0\WebApiEF5.genruntimeconfig.cache
-C:\Users\Hoang\source\repos\WebApiEF5\WebApiEF5\bin\Debug\net5.0\Newtonsoft.Json.dll
