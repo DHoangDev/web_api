@@ -23,7 +23,6 @@ namespace WebApiEF5.Controllers
         public IEnumerable<Employee> Get()
         {
             var res = _context.Employees.ToArray();
-            var a = "hellow";
             return res;
         }
     }
